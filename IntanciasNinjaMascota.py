@@ -1,6 +1,6 @@
 from Ninja import Ninja
-from Mascota import Mascota
-from Mascota import Perro
+from Mascota import Mascota, Perro
+
 
 #crear instancias 
 mascota = Mascota("Fluffy", "Perro", 5, 100, 80)
